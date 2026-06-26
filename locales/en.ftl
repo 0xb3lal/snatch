@@ -80,7 +80,7 @@ info =
     i can download videos, photos and music from any service supported by cobalt!
     you can use me right here in pms & in any chat via inline mode or add me to your favorite chat or channel.
 
-    running { $name }@{ $version }
+    running { $name }@{ $branch }
     sources: { $repository }
     report bugs: { $bugs }
     news & updates: { $homepage }

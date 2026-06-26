@@ -7,7 +7,7 @@ export const baseFetch = createFfetch({
         proxyAddon(),
     ],
     headers: [
-        ["User-Agent", "cobold (+https://github.com/tskau/cobold)"],
+        ["User-Agent", "cobold (+https://github.com/0xb3lal/snatch)"],
     ],
     validateResponse: false,
 })

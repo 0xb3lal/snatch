@@ -1,9 +1,9 @@
 {
-  "name": "cobold",
+  "name": "snatch",
   "version": "3.1.0",
   "homepage": "https://t.me/coboldlogs",
-  "repository": "https://github.com/tskau/cobold",
-  "bugs": "https://github.com/tskau/cobold/issues",
+  "repository": "https://github.com/0xb3lal/snatch",
+  "bugs": "https://github.com/0xb3lal/snatch/issues",
   "private": true,
   "main": "build/index.js",
   "scripts": {
